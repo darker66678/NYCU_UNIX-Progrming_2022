@@ -1,0 +1,8 @@
+start
+b 0x401187
+cont
+get rip
+set rip 0x401180
+cont
+get rip
+cont

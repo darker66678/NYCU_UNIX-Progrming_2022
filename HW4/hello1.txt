@@ -1,0 +1,5 @@
+help
+load ./test
+start
+disasm 0x401187
+
